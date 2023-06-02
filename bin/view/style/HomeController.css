@@ -1,0 +1,12 @@
+.homeButton {
+    -fx-background-color: none;
+}
+
+.homeButton:hover {
+    -fx-background-color: rgba(0, 0, 0, 0.1);
+}
+
+.homeButton:pressed {
+    -fx-background-color: black;
+    -fx-text-fill: white;
+}
